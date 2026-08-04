@@ -1,0 +1,12 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# vscode配置
+.vscode/
+*.code-workspace
+
+# lua临时
+*.swp
+*.swo
+*~
