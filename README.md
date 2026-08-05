@@ -1,6 +1,16 @@
 # aiqu.koplugin
 KOReader小说下载插件
 
+| 设备              | 下载路径                           |
+| --------------- | ------------------------------ |
+| **Kobo**        | `/mnt/onboard/books/aiqu/`     |
+| **Kindle**      | `/mnt/us/documents/aiqu/`      |
+| **Android**     | `/sdcard/Books/aiqu/` 或外部存储根目录 |
+| **PocketBook**  | `/mnt/ext1/books/aiqu/`        |
+| **reMarkable**  | `/home/root/books/aiqu/`       |
+| **Cervantes**   | `/mnt/public/books/aiqu/`      |
+| **Desktop/SDL** | `KOReader数据目录/aiqu_books/`     |
+
 ## 安装方法
 1. 下载最新Release的Source code(zip)
 2. 解压，把 `aiqu.koplugin` 文件夹复制到KOReader `plugins`目录
